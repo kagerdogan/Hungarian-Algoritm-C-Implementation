@@ -1,5 +1,4 @@
-// Muhammed Kaðan Erdoðan 
-// 152120131031 
+// Muhammed KaÃ°an ErdoÃ°an 
 // Hungarian Algoritm C++ Code
 // 19.5.2020
 // Tested http://www.hungarianalgorithm.com/solve.php
@@ -118,7 +117,7 @@ void main()
 	}
 	
 	coverZeros();
-	while (numLines<size)  // Bazý durumlarda riskli.
+	while (numLines<size)  // BazÃ½ durumlarda riskli.
 	{
 		Addzero();
 		coverZeros();
